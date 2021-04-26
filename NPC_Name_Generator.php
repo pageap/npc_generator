@@ -1,5 +1,5 @@
 <?php
-echo 'Hi Ian!';
+
 $link_address1 = 'NPC_Name_Generator.php';
 echo "<a href='$link_address1'>NPC_Name_Generator</a>";
 
